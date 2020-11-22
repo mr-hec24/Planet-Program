@@ -1,3 +1,3 @@
 function terraform() {
-    document.getElementById("Red").innerHTML = "Green Planet";
+    document.getElementById("red").innerHTML = "Green Planet";
 }
