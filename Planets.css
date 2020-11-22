@@ -1,0 +1,21 @@
+#planetary {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: grey;
+}
+
+#red {
+    color: red;
+    padding: 10px;
+}
+
+#blue {
+    color: blue;
+    padding: 10px;
+}
+
+#green {
+    color: green;
+    padding: 10px;
+}
